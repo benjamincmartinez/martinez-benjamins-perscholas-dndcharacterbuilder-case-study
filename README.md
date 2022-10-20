@@ -8,4 +8,4 @@ So far partway through phase one:
   -Database configuration in progress for presentation purposes...
 
 https://docs.google.com/presentation/d/1YrcAreeYCEALW9j6RIvr9i0sXaIY-6F1OeZeV2wtFy0/edit?usp=sharing
-Above is a presentation link.
+<-- This is a presentation link.
