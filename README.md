@@ -4,4 +4,5 @@ A repository chronicling the development of a dungeons and dragons digital compa
 So far partway through phase one:
 
   -I have created the basic/preliminary front end design of the basic character builder, however it only covers core stats and skills and has no exportability.
+  
   -Database configuration in progress for presentation purposes...
